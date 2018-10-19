@@ -2,3 +2,4 @@
 Codeigniter Basic Rest Api
 
 
+php artisan serve
